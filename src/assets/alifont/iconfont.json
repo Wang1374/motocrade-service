@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1256757",
+      "name": "已读",
+      "font_class": "yidu",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "1256758",
+      "name": "未读",
+      "font_class": "weidu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}
